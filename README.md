@@ -5,3 +5,7 @@ The mover.py is a script, to move the files in downloads folder to their respect
 # Usage
 
 I am running using pm2, which is a process manager, using pm2 we can run python or nodejs files in the background
+
+# Waring
+
+DO NOT RUN main.py!!, you may lose some files from your downloads folder
